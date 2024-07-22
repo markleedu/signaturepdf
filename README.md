@@ -5,17 +5,7 @@ Free web software for signing, organizing, editing metadatas or compressing PDFs
 
 ## Instances
 List of instances where you can use this software:
-- [pdf.24eme.fr](https://pdf.24eme.fr)
-- [pdf.libreon.fr](https://pdf.libreon.fr)
-- [pdf.hostux.net](https://pdf.hostux.net)
-- [pdf.nebulae.co](https://pdf.nebulae.co)
-- [pdf.kaosx.ovh](https://pdf.kaosx.ovh)
-- [pdf.ti-nuage.fr](https://pdf.ti-nuage.fr)
-- [pdf.cemea.org](https://pdf.cemea.org)
-- [pdf.spirio.fr](https://pdf.spirio.fr)
-- [pdf.sequanux.org](https://pdf.sequanux.org)
-- [pdf.deblan.org](https://pdf.deblan.org)
-- [pdf.ouvaton.coop](https://pdf.ouvaton.coop)
+- [saypdf.com](https://saypdf.com)
 
 _Feel free to add yours through an issue or a pull request._
 
